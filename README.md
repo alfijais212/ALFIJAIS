@@ -1,6 +1,8 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
+
+  google-site-verification: googledbc96c4fd5715bd5.html
   <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-SR9JTGEKXV"></script>
 <script>
